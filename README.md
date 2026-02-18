@@ -60,7 +60,9 @@ Trabalho com Engenharia de Software desde 2023. Sou Graduado em Engenharia de Si
 
 <div align="center">
 
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=uedson&layout=compact&theme=dark)
+![](https://github-readme-stats.vercel.app/api?username=gaiek&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=gaiek&theme=tokyonight&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=gaiek&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 </div>
 
