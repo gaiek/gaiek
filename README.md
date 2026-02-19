@@ -7,18 +7,17 @@
 Vai um café com pão de queijo pra começar o dia bem por aí?
 
 </div>
-
----
-
-Trabalho com Engenharia de Software desde 2023. Sou Graduado em Engenharia de Sistemas e aluno de disciplinas isoladas de mestrado em Modelagem Computacional e Sistemas pela UNIMONTES.
-
 <div align="center">
 
-## 📫 Conecte-se Comigo
+#### 📫 Conecte-se Comigo
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/uedson-gaiek-251a2b1b8/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:uedsonmoc@gmail.com)
 
 </div>
+---
+
+Trabalho com Engenharia de Software desde 2023. Sou Graduado em Engenharia de Sistemas e aluno de disciplinas isoladas de mestrado em Modelagem Computacional e Sistemas pela UNIMONTES.
+
 
 <div align="center">
 
